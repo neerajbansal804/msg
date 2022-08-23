@@ -1,0 +1,1 @@
+[10. ਸਤਿਗੁਰ ਕੇ ਗੁਣ ਗਾ ਲੇ ਬੰਦੇ](./Paras_Di_Vatti_Bhag_1/10_satguru_ke_gun_ga_le_bande.md)
