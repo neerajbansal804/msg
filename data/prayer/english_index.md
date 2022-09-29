@@ -1,8 +1,8 @@
-### Written by : SAINT DR. GURMEET RAM RAHIM SINGH JI INSAN  
+# Written by : SAINT DR. GURMEET RAM RAHIM SINGH JI INSAN  
 
-### Sleeping and Waking Up time
+## Sleeping and Waking Up time
 
-## Prayer in morning
+### Prayer in morning
 
 ```
 
@@ -34,7 +34,7 @@ You are my soul's, greatest need.
 
 ```
 
-## Prayer before sleeping
+### Prayer before sleeping
 
 ```
 
@@ -55,9 +55,9 @@ to receive gracious rays!
 ```
 
 
-### When sitting into meditation
+## When sitting into meditation
 
-## Prayer before meditation
+### Prayer before meditation
 
 ```
 
@@ -91,9 +91,9 @@ supreme.
 
 ```
 
-### Study time
+## Study time
 
-## Prayer before study
+### Prayer before study
 
 ```
 
@@ -115,7 +115,7 @@ May I reach, indeed.
 
 ```
 
-## Prayer after study 
+### Prayer after study 
 
 ```
 
@@ -137,9 +137,9 @@ So that I am able to serve everyone.
 
 ```
 
-### Prayer for food
+## Prayer for food
 
-## Prayer while cooking meal
+### Prayer while cooking meal
 
 ```
 
@@ -157,7 +157,7 @@ Human being.
 
 ```
 
-## Prayer before Meal
+### Prayer before Meal
 
 ```
 
@@ -177,9 +177,9 @@ of all.
 ```
 
 
-### At the time of Bad Thoughts
+## At the time of Bad Thoughts
 
-## Prayer for bad thoughts ( Morning )
+### Prayer for bad thoughts ( Morning )
 
 ```
 
@@ -203,7 +203,7 @@ Deeds more noble!
 
 ```
 
-## Prayer for bad thoughts ( Evening )
+### Prayer for bad thoughts ( Evening )
 
 ```
 
@@ -220,9 +220,9 @@ Their erasure.
 ```
 
 
-### For our dear ones
+## For our dear ones
 
-## Prayer for humanity
+### Prayer for humanity
 
 ```
 
@@ -267,9 +267,9 @@ Mind and wealth !
 ```
 
 
-### Sport Prayer
+## Sport Prayer
 
-## Prayer for Sportsman
+### Prayer for Sportsman
 
 ```
 
