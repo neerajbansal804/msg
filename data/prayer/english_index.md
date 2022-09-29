@@ -2,7 +2,7 @@
 
 ### Sleeping and Waking Up time
 
-##Prayer in morning
+## Prayer in morning
 
 ```
 
@@ -34,10 +34,11 @@ You are my soul's, greatest need.
 
 ```
 
-##Prayer before sleeping
+## Prayer before sleeping
 
 ```
- O Lord ! Throughout the day
+
+O Lord ! Throughout the day
 
 Knowingly or unknowingly
 
@@ -45,11 +46,14 @@ If I erred, then I pray
 
 For your forgiveness,
 
-and seek bounties of awake,
+and seek bounties of grace
 
-to receive gracious rays !
+While sleeping or awake,
+
+to receive gracious rays!
 
 ```
+
 
 ### When sitting into meditation
 
@@ -57,7 +61,7 @@ to receive gracious rays !
 
 ```
 
-Oh almighty !
+Oh Almighty !
 
 You are the savior
 
@@ -77,19 +81,19 @@ And turn everyone, to righteous ways
 
 What one deserve, that must befall
 
-To whom and how,
+To Whom and how,
 
 You know that all
 
-The ends, the means, is your wish
+The ends, the means, is your Wish
 
-Supreme.
+supreme.
 
 ```
 
 ### Study time
 
-##Prayer before study
+## Prayer before study
 
 ```
 
@@ -111,7 +115,7 @@ May I reach, indeed.
 
 ```
 
-##Prayer after study 
+## Prayer after study 
 
 ```
 
@@ -129,11 +133,13 @@ the spirit of humanitarianism
 
 Give me strength,
 
-So that I am able to server everyone.
+So that I am able to serve everyone.
 
 ```
 
-##Prayer while cooking meal
+### Prayer for food
+
+## Prayer while cooking meal
 
 ```
 
@@ -151,13 +157,33 @@ Human being.
 
 ```
 
-### At the time of Bad Thoughts
-
-##Prayer for bad thoughts ( Morning )
+## Prayer before Meal
 
 ```
 
-O lord! May bad thoughts
+O Lord ! Whatever food I partake,
+
+May it bring
+
+your sacred Remembrance,
+
+grant good health and engender in 
+
+me, the Spirit of large heartedness and Selfless humanitarian welfare
+
+of all.
+
+
+```
+
+
+### At the time of Bad Thoughts
+
+## Prayer for bad thoughts ( Morning )
+
+```
+
+O lord! May bad thoughts,
 
 Never give me trouble
 
@@ -173,11 +199,11 @@ And with your grace,
 
 May we progressively perform
 
-Deeds more noble ! 
+Deeds more noble!
 
 ```
 
-##Prayer for bad thoughts ( Evening )
+## Prayer for bad thoughts ( Evening )
 
 ```
 
@@ -193,6 +219,7 @@ Their erasure.
 
 ```
 
+
 ### For our dear ones
 
 ## Prayer for humanity
@@ -201,9 +228,7 @@ Their erasure.
 
  May it be peaceful and tranquil,
 
-May brotherhood prevail, may people live
-
-with
+May brotherhood prevail, may people live with
 
 compassionate fellow feeling and
 
@@ -237,7 +262,33 @@ And give me power to serve
 
 Humanity with my body,
 
-Mind and wealth !  
+Mind and wealth !
 
+```
+
+
+### Sport Prayer
+
+## Prayer for Sportsman
+
+```
+
+Ye Supreme Teacher!
+
+The Lord of the two realms
+
+We live in the shade of thy grace and benevolence
+
+Grant us the will power and self confidence
+
+To vanquish those against whom we play
+
+May you remain our perpetual companion!
+
+May you remain our perpetual companion!
+
+Dhan Dhan Satguru, Tera Hi Asra
+
+(And then start the game)
 
 ```
