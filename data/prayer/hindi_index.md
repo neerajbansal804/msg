@@ -1,10 +1,3 @@
-[
-comment added here:
-https://dillinger.io/
-https://www.markdownguide.org/basic-syntax/
-https://www.w3schools.io/file/markdown-comments/
-]:
-
 **लेखक : संत डॉ. गुरमीत राम रहीम सिंह जी इन्सां**
 &nbsp;
 
@@ -12,7 +5,7 @@ https://www.w3schools.io/file/markdown-comments/
 ## सोते व उठते वक्त
 ---
 
-### सुबह-सवेरे की प्रार्थना
+#### सुबह-सवेरे की प्रार्थना
 
 ```
 
@@ -27,7 +20,7 @@ https://www.w3schools.io/file/markdown-comments/
 
 ```
 
-### सोने से पहले की प्रार्थना
+#### सोने से पहले की प्रार्थना
 
 ```
 
@@ -45,7 +38,7 @@ https://www.w3schools.io/file/markdown-comments/
 ## भगवान के ध्यान के लिए
 ---
 
-### सुबह शाम सुमिरन से पहले प्रार्थना
+#### सुबह शाम सुमिरन से पहले प्रार्थना
 
 ```
 
@@ -64,7 +57,7 @@ https://www.w3schools.io/file/markdown-comments/
 ## पढ़ाई के वक्त
 ---
 
-### पढ़ाई से पहले प्रार्थना
+#### पढ़ाई से पहले प्रार्थना
 
 ```
 
@@ -77,7 +70,7 @@ https://www.w3schools.io/file/markdown-comments/
 
 ```
 
-### पढ़ाई के बाद अरदास
+#### पढ़ाई के बाद अरदास
 
 ```
 
@@ -96,7 +89,7 @@ https://www.w3schools.io/file/markdown-comments/
 ## खाने के लिए प्रार्थना
 ---
 
-### खाना बनाते टाईम प्रार्थना
+#### खाना बनाते टाईम प्रार्थना
 
 ```
 
@@ -107,7 +100,7 @@ https://www.w3schools.io/file/markdown-comments/
 
 ```
 
-### खाना खाने से पहले प्रार्थना
+#### खाना खाने से पहले प्रार्थना
 
 ```
 
@@ -124,7 +117,7 @@ https://www.w3schools.io/file/markdown-comments/
 ## बुरे विचारों के वक्त
 ---
 
-### बुरे विचार आने पर प्रार्थना ( सुबह के लिए )
+#### बुरे विचार आने पर प्रार्थना ( सुबह के लिए )
 
 ```
 
@@ -136,7 +129,7 @@ https://www.w3schools.io/file/markdown-comments/
 
 ```
 
-### बुरे विचार आने पर प्रार्थना ( शाम के लिए )
+#### बुरे विचार आने पर प्रार्थना ( शाम के लिए )
 
 ```
 
@@ -153,7 +146,7 @@ https://www.w3schools.io/file/markdown-comments/
 ## अपनों के लिए
 ---
 
-### इन्सानियत के लिए प्रार्थना
+#### इन्सानियत के लिए प्रार्थना
 
 ```
 
@@ -164,7 +157,7 @@ https://www.w3schools.io/file/markdown-comments/
 
 ```
 
-### मानवता भलाई में रोज एक रुपया डालने से पहले प्रार्थना
+#### मानवता भलाई में रोज एक रुपया डालने से पहले प्रार्थना
 
 ```
 
@@ -183,7 +176,7 @@ https://www.w3schools.io/file/markdown-comments/
 ## खेल प्रार्थना
 ---
 
-### खिलाड़ियों के लिए प्रार्थना
+#### खिलाड़ियों के लिए प्रार्थना
 
 ```
 
