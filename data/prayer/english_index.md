@@ -3,7 +3,7 @@ comment added here:
 https://dillinger.io/
 https://www.markdownguide.org/basic-syntax/
 https://www.w3schools.io/file/markdown-comments/
-]: #
+]:
 
 **Written by : SAINT DR. GURMEET RAM RAHIM SINGH JI INSAN**
 &nbsp;

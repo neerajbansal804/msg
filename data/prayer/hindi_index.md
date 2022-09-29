@@ -3,7 +3,7 @@ comment added here:
 https://dillinger.io/
 https://www.markdownguide.org/basic-syntax/
 https://www.w3schools.io/file/markdown-comments/
-]: #
+]:
 
 **लेखक : संत डॉ. गुरमीत राम रहीम सिंह जी इन्सां**
 &nbsp;
